@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Please enter your name:"
-read name
+echo "Please enter your favorite animal:"
+read animal
 echo "Reading.... please wait"
 sleep 3 
 echo "-----------------------------"
