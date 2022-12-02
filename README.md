@@ -1,18 +1,17 @@
-### Hi there 👋
+### Greetings!! 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Hello my name is Conner Strazzo I have recently become interested in how the tech world works. I have been learning about different OS and how to work throughout the cloud! Hopeing to one day become Cloud engineer!
 
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Conner%20Strazzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-strazzo-414970251/)](https://www.linkedin.com/in/conner-strazzo-414970251/)
+[![Medium Badge](https://img.shields.io/badge/Conner%20Strazzo-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@connerstrazzo)](https://medium.com/@connerstrazzo)
+[![Gmail Badge](https://img.shields.io/badge/-Connerstrazzo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Connerstrazzo@gmail.com)](mailto:Connerstrazzo@gmail.com)
 
 ## ⚡ Technologies
 
-<!-- Check out the Badges folder for more badges -->
+
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -23,10 +22,10 @@ Find out more about me & feel free to connect with me here:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Conneronium&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conneronium&hide=TeX&layout=compact)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Conneronium%2Conneronium&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Conneronium%2FConneronium)
